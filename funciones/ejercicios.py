@@ -77,6 +77,7 @@ def multiplicar(lista):
     return resultado
 
 
+
 resultado_suma = sumar(lista_numeros)
 resultado_multiplicacion = multiplicar(lista_numeros)
 
